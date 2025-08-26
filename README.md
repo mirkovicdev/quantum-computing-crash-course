@@ -1,4 +1,4 @@
-# Quantum Computing Crash Course
+# Basic Quantum Mechanics for Quantum Computing
 
 This repository contains a concise, math-first crash course in **basic quantum mechanics for quantum computing**.  
 It is intended for students with a strong mathematics background but only introductory exposure to quantum physics.
